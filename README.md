@@ -12,9 +12,9 @@ Model DNN (MLP) dan CNN untuk mengklasifikasikan 24 huruf statis American Sign L
 |---|---|---|
 | 231111408 | Steven David H Malau | Ketua Tim & Model Engineer (CNN) |
 | 231111488 | Wan Saka Nasa | Data Engineer (EDA, Preprocessing, tf.data) |
-| 231111954 | Joel Saroha Sianturi | DNN & Optimasi (Perceptron, MLP, Optimizer) |
-| NIM Anggota 4 | Nama Anggota 4 | Evaluasi & Fitur Unik (Threshold/OOD, TFLite, Grad-CAM) |
-| NIM Anggota 5 | Nama Anggota 5 | Deployment & Dokumentasi (Gradio, HF Spaces, GitHub, Video) |
+| 231111207 | Edwin Valentino Tarigan | DNN & Optimasi (Perceptron, MLP, Optimizer) |
+| 231110581 | Eric Chandra | Evaluasi & Fitur Unik (Threshold/OOD, TFLite, Grad-CAM) |
+| 231111650 | Dhaifan Al Ghani | Deployment & Dokumentasi (Gradio, HF Spaces, GitHub, Video) |
 
 ## Hasil (data uji resmi, 7.172 citra)
 | ID | Model | Parameter | Akurasi | Macro-F1 |
