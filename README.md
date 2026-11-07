@@ -6,7 +6,7 @@ Model DNN (MLP) dan CNN untuk mengklasifikasikan 24 huruf statis American Sign L
 
 - Aplikasi: https://huggingface.co/spaces/superstev/asl-sign-mnist
 - Video demo: (isi link video)
-- Notebook: `Kelompok1_IF-A-PAGI_Proyek1.ipynb` (sudah dijalankan, lengkap dengan output)
+- Notebook: `Kelompok_3_Uts.ipynb` (sudah dijalankan, lengkap dengan output)
 - Laporan: [`laporan/Laporan_Kelompok1_IF-A-PAGI_Proyek.pdf`](laporan/Laporan_Kelompok1_IF-A-PAGI_Proyek.pdf)
 
 ## Anggota dan peran
